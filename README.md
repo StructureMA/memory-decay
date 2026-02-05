@@ -128,4 +128,4 @@ We hope you find this as interesting as we do!
 
 ---
 
-*Built by JL CC.*
+*Built by JL and CC.*
