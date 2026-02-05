@@ -124,8 +124,8 @@ The demo is standalone HTML - no build step, no dependencies. Just open it and p
 open index.html
 ```
 
-We hope you find this as interesting as we do! We built it while solving real problems in Oval, and we're proud of how it turned out.
+We hope you find this as interesting as we do! 
 
 ---
 
-*Built with Claude Code, lots of experimentation, and a shared belief that AI should be more human.*
+*Built by 2-halves.*
