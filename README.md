@@ -1,8 +1,8 @@
 # Memory Decay: Teaching AI to Forget Like Humans Do
 
-**A collaborative experiment in making AI memory more human**
+**An experiment in applying human memory patterns to AI**
 
-While building [Oval](https://oval.sh), a personal AI assistant, we realized something: perfect memory isn't actually that useful. Humans forget things naturally - recent events stay vivid while old details fade unless they're reinforced. This isn't a bug, it's a feature. It helps us prioritize what matters.
+Working with AI memory, we realized something: perfect memory isn't actually that useful. Humans forget things naturally - recent events stay vivid while old details fade unless they're reinforced. This isn't a bug, it's a feature. It helps us prioritize what matters.
 
 So we asked: what if AI memory worked the same way?
 
