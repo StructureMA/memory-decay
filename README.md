@@ -59,7 +59,7 @@ We implemented Hermann Ebbinghaus's forgetting curve - a mathematical model of h
 
 We built an interactive visualization to show the system in action:
 
-👉 **[Try the live demo →](https://yourusername.github.io/memory-decay)**
+👉 **[Try the live demo →](https://structurema.github.io/memory-decay)**
 
 Or download and open `index.html` locally - no dependencies needed.
 
